@@ -1,3 +1,3 @@
 # Szofttech git repo
 
-Helo everybody.
+Helo guys and gals.
