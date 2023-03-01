@@ -1,0 +1,3 @@
+# Szofttech git repo
+
+Helo.
